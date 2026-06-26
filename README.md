@@ -134,13 +134,13 @@ Unlike many browser-only editors, notepad.pw supports multiple platforms and clo
 
 ---
 
-## 4. Online Notepad 101
+## 4. Hyper Notepad
 
 **Platform:** Web
 
 **Price:** Free
 
-Online Notepad 101 focuses on providing a lightweight online text editor with note-sharing capabilities.
+Hyper Notepad focuses on providing a lightweight online text editor with note-sharing capabilities.
 
 ### Features
 
